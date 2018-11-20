@@ -20,4 +20,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:9527/eureka/,http://localhost:9528/eureka/,http://localhost:9529/eureka/
 
-foo: client-dev2
+foo: remote-config-dev2
